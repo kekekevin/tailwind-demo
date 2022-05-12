@@ -19,7 +19,7 @@
         </div>
       </div>
 
-      <div class="flex flex-col items-center bg-gray-800 pb-4 pt-4">
+      <div class="flex flex-col items-center bg-gray-800 py-4">
         <div class="text-gray-500 text-sm">
           Price Range
         </div>
@@ -30,19 +30,19 @@
 
       <div class="flex flex-row bg-gray-800 pb-4">
         <div class="flex flex-col flex-grow">
-          <div class="text-gray-500 text-center text-sm">Anticipated</div>
-          <div class="text-white text-center text-sm">July 20th</div>
+          <div class="text-center text-gray-500 text-sm">Anticipated</div>
+          <div class="text-center text-white text-sm">July 20th</div>
         </div>
 
         <div class="flex flex-col flex-grow">
-          <div class="text-gray-500 text-center text-sm">Sector</div>
-          <div class="text-white text-center text-sm">SPAC</div>
+          <div class="text-center text-gray-500 text-sm">Sector</div>
+          <div class="text-center text-white text-sm">SPAC</div>
         </div>
       </div>
 
       <div class="flex flex-row gap-x-2 bg-gray-800 pb-4 px-8 rounded-b-lg">
-        <button class="rounded flex-grow text-white bg-blue-500">Order</button>
-        <button class="rounded flex-grow text-white">Favorite</button>
+        <button class="flex-grow rounded text-white bg-blue-500">Order</button>
+        <button class="flex-grow rounded text-white">Favorite</button>
       </div>
     </div>
   </div>
